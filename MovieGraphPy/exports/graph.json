@@ -1,0 +1,71 @@
+{
+    "nodes": [
+        {
+            "id": 10,
+            "label": "Movie",
+            "title": "The Matrix Reloaded"
+        },
+        {
+            "id": 12,
+            "label": "Person",
+            "name": "Keanu Reeves"
+        },
+        {
+            "id": 13,
+            "label": "Person",
+            "name": "Carrie-Anne Moss"
+        },
+        {
+            "id": 14,
+            "label": "Person",
+            "name": "Laurence Fishburne"
+        },
+        {
+            "id": 15,
+            "label": "Person",
+            "name": "Hugo Weaving"
+        },
+        {
+            "id": 16,
+            "label": "Person",
+            "name": "Lana Wachowski"
+        },
+        {
+            "id": 17,
+            "label": "Person",
+            "name": "Lilly Wachowski"
+        }
+    ],
+    "links": [
+        {
+            "source": 12,
+            "target": 10,
+            "type": "ACTED_IN"
+        },
+        {
+            "source": 13,
+            "target": 10,
+            "type": "ACTED_IN"
+        },
+        {
+            "source": 14,
+            "target": 10,
+            "type": "ACTED_IN"
+        },
+        {
+            "source": 15,
+            "target": 10,
+            "type": "ACTED_IN"
+        },
+        {
+            "source": 16,
+            "target": 10,
+            "type": "DIRECTED"
+        },
+        {
+            "source": 17,
+            "target": 10,
+            "type": "DIRECTED"
+        }
+    ]
+}
