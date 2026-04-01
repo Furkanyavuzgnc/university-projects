@@ -1,0 +1,26 @@
+futbol,Messi,Inter Miami,90,85,88,80,100,Legend
+futbol,Ronaldo,Al Nassr,92,87,90,85,100,Finisher
+futbol,Neymar,Al Hilal,88,86,87,78,100,Clutch
+futbol,Mbappe,PSG,91,84,89,82,100,Speed
+futbol,Haaland,Man City,93,80,91,85,100,Finisher
+futbol,Modric,Real Madrid,85,90,84,88,100,Playmaker
+futbol,Salah,Liverpool,89,83,88,80,100,Clutch
+futbol,Kane,Bayern,91,82,90,84,100,Finisher
+
+basketbol,LeBron,Lakers,88,85,90,85,100,Leader
+basketbol,Curry,Warriors,80,95,92,75,100,Shooter
+basketbol,Durant,Suns,85,90,88,80,100,Clutch
+basketbol,Jokic,Nuggets,90,82,85,88,100,Playmaker
+basketbol,Doncic,Mavericks,89,88,90,82,100,Clutch
+basketbol,Tatum,Celtics,87,89,85,80,100,Finisher
+basketbol,Giannis,Bucks,92,80,85,90,100,Power
+basketbol,Booker,Suns,86,88,87,78,100,Shooter
+
+voleybol,Zehra,Turkey,85,88,87,80,100,Blocker
+voleybol,Eda,Turkey,84,86,85,82,100,Leader
+voleybol,Gabi,Brazil,83,85,86,78,100,Clutch
+voleybol,Boskovic,Serbia,90,80,92,85,100,Finisher
+voleybol,Kim,Korea,88,84,90,80,100,Clutch
+voleybol,Zhu,China,87,86,88,82,100,Leader
+voleybol,Egonu,Italy,91,82,93,85,100,Finisher
+voleybol,Robinson,USA,84,87,85,79,100,Blocker
