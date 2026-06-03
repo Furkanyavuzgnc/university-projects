@@ -1,0 +1,20 @@
+Bilgisayar bilimi veri yapıları ve algoritmalar üzerine kuruludur.
+Veri yapıları arasında ağaç yapısı çok önemli bir yer tutar.
+Ağaç yapısı kök düğüm ve yaprak düğümlerden oluşur.
+Kök düğüm ağacın en üstünde yer alır.
+Yaprak düğümler ise ağacın en altında yer alır.
+Heap yapısı özel bir ağaç yapısıdır.
+Heap yapısında kök düğüm en küçük ya da en büyük değeri tutar.
+Algoritmalar veri yapıları üzerinde çalışır.
+Veri yapıları olmadan algoritmalar düzgün çalışamaz.
+Bilgisayar bilimi her geçen gün gelişmektedir.
+Python programlama dili veri yapılarını destekler.
+Python ile heap yapısı kolayca oluşturulabilir.
+Ağaç yapısı grafik olarak görselleştirilebilir.
+Görselleştirme veri yapısını anlamayı kolaylaştırır.
+Kök düğüm yaprak düğümlerden daha üstte yer alır.
+Veri veri veri yapısı çok önemlidir.
+Algoritma algoritma analizi yapılmalıdır.
+Bilgisayar bilimi alanında veri çok değerlidir.
+Ağaç ağaç yapısı her yerde kullanılır.
+Python Python dili öğrenmesi kolaydır.
